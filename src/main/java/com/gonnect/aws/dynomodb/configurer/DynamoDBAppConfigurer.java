@@ -95,7 +95,7 @@ public class DynamoDBAppConfigurer extends WebSecurityConfigurerAdapter {
         return new ApiInfoBuilder()
                 .title(description)
                 .description(description)
-                .license("Nike")
+                .license("Gonnect")
                 .licenseUrl("")
                 .version("1.0")
                 .build();
